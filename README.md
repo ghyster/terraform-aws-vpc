@@ -5,7 +5,7 @@ A Terraform module which allows requesting and management of certificates from A
 This type of resource is supported :
 - [VPC - aws_vpc](https://www.terraform.io/docs/providers/aws/r/acm_certificate.html)
 - [SUBNET - aws_subnet](https://www.terraform.io/docs/providers/aws/r/subnet.html)
-- [ELASTIC IP - aws_eip][https://www.terraform.io/docs/providers/aws/r/eip.html]
+- [ELASTIC IP - aws_eip](https://www.terraform.io/docs/providers/aws/r/eip.html)
 - [NAT GATEWAY - aws_nat_gateway](https://www.terraform.io/docs/providers/aws/r/nat_gateway.html)
 - [INTERNET GATEWAY - aws_internet_gateway](https://www.terraform.io/docs/providers/aws/r/internet_gateway.html)
 - [ROUTE TABLE - aws_route_table](https://www.terraform.io/docs/providers/aws/r/route_table.html)
